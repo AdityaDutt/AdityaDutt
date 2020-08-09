@@ -1,7 +1,7 @@
-## Hi there, I'm  [Aditya](https://www.adityadutt.com)👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
+### Hi there, I'm  [Aditya](https://www.adityadutt.com) 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
 
-### I'm a Machine learning PhD Researcher !
-- 🔭 I'm working as a Graduate Research Assistant at [```UF Department of Agricultural Sciences```](https://ifas.ufl.edu/ ).
+## I'm a Machine learning Researcher !
+- 🔭 I'm working as a Graduate Research Assistant in ```  UF Agriculture Department ``` (https://ifas.ufl.edu/ ).
 - 🔭 I’m currently researching on emotion detection using speech and text !
 - 🌱 I’m learning about state of the art NLP models 
 
@@ -30,5 +30,9 @@
 <img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+
+---
+[website]: https://adityadutt.com
+[linkedin]: https://www.linkedin.com/in/adityadutt12
 
 ---
