@@ -1,7 +1,7 @@
 ## Hi there, I'm  [Aditya](https://www.adityadutt.com) 👋
 
 ### I'm a Machine learning PhD Researcher !
-- 🔭 I'm working as a Graduate Research Assistant in UF Agriculture Department.
+- 🔭 I'm working as a Graduate Research Assistant in UF Institute of Food and Agricultural Sciences.
 - 🔭 I’m currently researching on emotion detection using speech and text !
 - 🌱 I’m learning about state of the art NLP models 
 
