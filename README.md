@@ -1,5 +1,4 @@
-## Hi there, I'm  [Aditya](https://www.adityadutt.com) 
-<img align="left" alt="codeSTACKr.com" width="62px" src="https://banner2.cleanpng.com/20180430/wrq/kisspng-florida-gators-football-ben-hill-griffin-stadium-f-private-message-starting-confessions-5ae75d980a80b3.289587801525112216043.jpg" />
+## Hi there, I'm  [Aditya](https://www.adityadutt.com) <img align="right" alt="codeSTACKr.com" width="32px" src="https://banner2.cleanpng.com/20180430/wrq/kisspng-florida-gators-football-ben-hill-griffin-stadium-f-private-message-starting-confessions-5ae75d980a80b3.289587801525112216043.jpg" />
 
 ### I'm a Machine learning PhD Researcher !
 - 🔭 I'm working as a Graduate Research Assistant in [<span style="color: orange;">UF Department of Agricultural Sciences</span>](https://ifas.ufl.edu/ ).
