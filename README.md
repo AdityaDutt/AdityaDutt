@@ -1,18 +1,18 @@
 ## Hi there, I'm [Aditya][website] 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
 
-### I'm a Machine learning Researcher ! I am a PhD student at University of Florida, Gainesville, Florida.
+#### I'm a Machine learning Researcher. I am a PhD student at University of Florida, Gainesville, Florida.
 - 🔭 I'm working as a Graduate Research Assistant in [```UF Agriculture Department```](https://ifas.ufl.edu/ ).
 - 🔭  I’m currently researching on emotion detection using speech and text !
 - 🌱  I’m learning about state of the art NLP models 
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="adityadutt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aditya Dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/python.svg" />
 <img align="left" alt="Keras" width="64px" src="https://keras.io/img/logo.png" />
