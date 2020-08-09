@@ -15,16 +15,19 @@
 ### Languages and Tools:
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/python.svg" />
-<img align="left" alt="SQL" width="86px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/173cf5352cc69f92aea42816e7e40c63dd79d1ae/doc/logos/scikit-learn-logo.svg" />
-<img align="left" alt="SQL" width="66px" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
+<img align="left" alt="SQL" width="76px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="SQL" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png
+" />
+<img align="left" alt="SQL" width="100px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/173cf5352cc69f92aea42816e7e40c63dd79d1ae/doc/logos/scikit-learn-logo.svg" />
+<img align="left" alt="SQL" width="70px" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
 <img align="left" alt="SQL" width="86px" src="https://matplotlib.org/_static/logo2.svg" />
 <img align="left" alt="SQL" width="86px" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" >
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="SQL" width="44px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/qt.svg" />
+<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/qt.svg" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 
