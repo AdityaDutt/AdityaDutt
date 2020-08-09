@@ -1,4 +1,4 @@
-## Hi there, I'm  [Aditya](https://www.adityadutt.com) 👋
+## Hi there, I'm  [Aditya](https://www.adityadutt.com) <img align="left" alt="codeSTACKr.com" width="22px" src="https://clipartart.com/images/florida-gator-clipart-3.jpg" />
 
 ### I'm a Machine learning PhD Researcher !
 - 🔭 I'm working as a Graduate Research Assistant in [<span style="color: orange;">UF Department of Agricultural Sciences</span>](https://ifas.ufl.edu/ ).
