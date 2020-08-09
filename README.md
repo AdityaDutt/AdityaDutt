@@ -1,4 +1,4 @@
-### Hi there, I'm <span color="red";>Aditya</span> 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
+### Hi there, I'm <span style ="color: red;">Aditya</span> 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
 
 ## I'm a Machine learning Researcher !
 - 🔭 I'm working as a Graduate Research Assistant in [```UF Agriculture Department```](https://ifas.ufl.edu/ ).
