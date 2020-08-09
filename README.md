@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya [website](https://www.adityadutt.com) 👋
+### Hi there, I'm  [Aditya](https://www.adityadutt.com) 👋
 
 ## I'm a Machine learning Researcher !
 - 🔭 I'm working as a Graduate Research Assistant in UF Agriculture Department.
