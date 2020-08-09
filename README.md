@@ -15,8 +15,8 @@
 #### Languages and Tools:
 
 <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/python.svg" />
-<img align="left" alt="Keras" width="64px" src="https://keras.io/img/logo.png" />
-<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png" />
+<img align="left" alt="Keras" width="68px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="Tensorflow" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png" />
 <img align="left" alt="C++" width="30px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />
 <img align="left" alt="Scikit" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="NumPy" width="64px" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
