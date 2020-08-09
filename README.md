@@ -1,6 +1,6 @@
-### Hi there, I'm [Aditya][website] 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
+## Hi there, I'm [Aditya][website] 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
 
-## I'm a Machine learning Researcher !
+### I'm a Machine learning Researcher ! I am a PhD student at University of Florida, Gainesville, Florida.
 - 🔭 I'm working as a Graduate Research Assistant in [```UF Agriculture Department```](https://ifas.ufl.edu/ ).
 - 🔭  I’m currently researching on emotion detection using speech and text !
 - 🌱  I’m learning about state of the art NLP models 
