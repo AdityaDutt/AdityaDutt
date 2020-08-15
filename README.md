@@ -16,7 +16,7 @@
 
 <img align="left" alt="Python" width="24px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 <img align="left" alt="Keras" width="68px" src="https://keras.io/img/logo.png" />
-<img align="left" alt="Tensorflow" width="94px" src="https://www.fonow.com/Images/2019-03-07/66372-20190307152332462-1751566379.gif" />
+<img align="left" alt="Tensorflow" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="C++" width="30px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />
 <img align="left" alt="Scikit" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="NumPy" width="66px" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
