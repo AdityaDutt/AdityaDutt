@@ -14,7 +14,7 @@
 
 #### Languages and Tools:
 
-<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/https://user-images.githubusercontent.com/41782385/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.gif" />
+<img align="left" alt="Python" width="24px" src="https://user-images.githubusercontent.com/41782385/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.gif" />
 <img align="left" alt="Keras" width="68px" src="https://keras.io/img/logo.png" />
 <img align="left" alt="Tensorflow" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png" />
 <img align="left" alt="C++" width="30px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />
