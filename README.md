@@ -34,7 +34,6 @@
 [website]: https://adityadutt.com
 [linkedin]: https://www.linkedin.com/in/adityadutt12
 
----
 
 I like to write blogs on Machine Learning and Data Science. Check out my latest blogs on medium-
 
