@@ -40,6 +40,6 @@
 
 ---
 
-📝 I like to write blogs on Machine Learning and Data Science. Check out my latest blogs on medium-
+- I like to write blogs on Machine Learning and Data Science. Check out my latest blogs on medium-
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
