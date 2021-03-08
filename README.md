@@ -34,13 +34,10 @@
 [website]: https://adityadutt.com
 [linkedin]: https://www.linkedin.com/in/adityadutt12
 
-<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdityaDutt&show_icons=true&hide_border=true" /> \
+<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdityaDutt&show_icons=true&hide_border=true" />
 
 
 <br />
-<br />
-
----
 
 📝 I like to write blogs on Machine Learning and Data Science. Check out my latest blogs on medium-
 
