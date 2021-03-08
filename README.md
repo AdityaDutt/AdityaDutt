@@ -29,6 +29,7 @@
 <br />
 <br />
 
+---
 
 [website]: https://adityadutt.com
 [linkedin]: https://www.linkedin.com/in/adityadutt12
