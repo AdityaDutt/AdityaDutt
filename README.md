@@ -37,6 +37,10 @@
 I like to write ✍ blogs on Machine Learning and Data Science. Check out my latest blogs on medium :
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
+
+<br />
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/1" alt="Recent Article 1"> 
 <br />
 
 ---
