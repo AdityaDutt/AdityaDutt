@@ -9,7 +9,7 @@
 
 [<img align="left" alt="adityadutt.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aditya Dutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aditya Dutt | Medium" width="22px" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" />][medium]
+[<img align="left" alt="Aditya Dutt | Medium" width="62px" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" />][medium]
 
 <br />
 
