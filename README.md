@@ -27,7 +27,6 @@
 <img align="left" alt="QT" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/qt.svg" />
 <img align="left" alt="GitHub" width="44px" src="https://res.cloudinary.com/devpost/image/fetch/s--KP5oRp25--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue" />
 <br />
-<br />
 
 
 [website]: https://adityadutt.com
