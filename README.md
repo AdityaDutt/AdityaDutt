@@ -40,7 +40,7 @@
 
 #### I like to write ✍ blogs on Machine Learning and Data Science. Check out my latest blogs on medium :
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2" alt="Recent Article 0"> 
 <br />
 
 
@@ -48,7 +48,7 @@
 <br />
 
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 2"> 
 
 <br />
 
