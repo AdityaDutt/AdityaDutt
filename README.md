@@ -60,3 +60,6 @@
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=synthwave)
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=highcontrast)
+
+  
