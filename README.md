@@ -53,7 +53,7 @@
 <br />
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3" alt="Recent Article 3"> 
 
 <br />
 
