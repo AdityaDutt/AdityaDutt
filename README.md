@@ -53,6 +53,11 @@
 <br />
 
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2" alt="Recent Article 3"> 
+
+<br />
+
+
 ---
 
 <!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdityaDutt&show_icons=true&hide_border=true" />
