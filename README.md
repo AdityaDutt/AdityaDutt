@@ -3,7 +3,7 @@
 #### I'm a Machine learning PhD Researcher at University of Florida. I love participating in kaggle competitions and working on interesting problems.
 - 🔭 I'm working as a Graduate Research Assistant in [```UF ESSIE Department```](https://www.essie.ufl.edu/ ).
 - 🔭  I’m currently researching on emotion detection using speech and text !
-- 🌱  I’m learning about state of the art NLP models 
+- 🌱  I like to write ✍ blogs based on Machine Learning and Data Science on Medium. Check out my medium articles [```here```](https://adityadutt.medium.com/). 
 
 #### Connect with me:
 
@@ -38,7 +38,7 @@
 
 ---
 
-#### I like to write ✍ blogs on Machine Learning and Data Science. Check out my latest blogs on medium :
+#### Check out my latest blogs on medium :
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
 <br />
