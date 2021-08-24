@@ -30,7 +30,7 @@
 <br />
 
 
-[website]: https://adityadutt.com
+[website]: https://adityadutt.github.io/
 [linkedin]: https://www.linkedin.com/in/adityadutt12
 [medium]: https://adityadutt.medium.com/
 
