@@ -1,6 +1,7 @@
-## Hi there 👋, I'm [Aditya][website]<sup>(He/Him)</sup> <img align="center" alt="codeSTACKr.com" width="62px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
+## Hi there 👋, I'm [Aditya][website]<sup>(He/Him)</sup> <img align="center" alt="codeSTACKr.com" width="100px" src="https://media3.giphy.com/media/3o7523KEOFginbjFQc/giphy.gif?cid=790b76119f8aff756809214f4ba598db3c538f0122ccf346&rid=giphy.gif&ct=g" />
 
-<img align="center" alt="codeSTACKr.com" width="62px" src="https://media3.giphy.com/media/3o7523KEOFginbjFQc/giphy.gif?cid=790b76119f8aff756809214f4ba598db3c538f0122ccf346&rid=giphy.gif&ct=g" />
+<!-- <img align="center" alt="codeSTACKr.com" width="62px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
+ -->
 
 #### I'm a Machine learning PhD Researcher at University of Florida. I love participating in kaggle competitions and working on interesting problems.
 - 🔭 I'm working as a Graduate Research Assistant in [```UF ESSIE Department```](https://www.essie.ufl.edu/ ).
