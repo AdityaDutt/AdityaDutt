@@ -39,9 +39,9 @@
 
 <br />
 
-<img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react"/>
+<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react"/>
 
-<img height="600em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react/">
+<img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react/">
 
 ---
 
