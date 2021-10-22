@@ -29,7 +29,7 @@
 <img align="left" alt="SQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="QT" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/b4c26a833274ecd7eb948805c9488ace62e8e664/icons/qt.svg" />
-<img align="right" alt="GitHub" width="44px" src="https://res.cloudinary.com/devpost/image/fetch/s--KP5oRp25--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue" />
+<img align="center" alt="GitHub" width="44px" src="https://res.cloudinary.com/devpost/image/fetch/s--KP5oRp25--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue" />
 <br />
 
 
