@@ -39,6 +39,12 @@
 
 <br />
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react)
+
+<br>
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react)
+
 ---
 
 #### Check out my latest blogs on medium :
@@ -69,8 +75,5 @@
 
 <!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdityaDutt&show_icons=true&hide_border=true" />
  -->
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=radical)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=radical)
 
 
