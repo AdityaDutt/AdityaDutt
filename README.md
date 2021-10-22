@@ -37,8 +37,6 @@
 [linkedin]: https://www.linkedin.com/in/adityadutt12
 [medium]: https://adityadutt.medium.com/
 
-<br />
-
 <hr>
 
 <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react"/>
