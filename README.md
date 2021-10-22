@@ -39,7 +39,9 @@
 
 <br />
 
-<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react"/>
+---
+
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react"/>
 
 <img height="350em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react/">
 
