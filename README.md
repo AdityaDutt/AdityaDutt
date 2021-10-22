@@ -37,7 +37,7 @@
 [linkedin]: https://www.linkedin.com/in/adityadutt12
 [medium]: https://adityadutt.medium.com/
 
-<br\>
+<br />
 
 <hr>
 
