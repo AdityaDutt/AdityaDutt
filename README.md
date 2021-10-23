@@ -40,11 +40,11 @@
 <hr>
 
 <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=AdityaDutt&show_icons=true&theme=react"/>
-<img height="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react/">
+<img height="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react/"> <br />
 
 ---
 
-<br>
+<br />
 
 
 #### Check out my latest blogs on medium :
