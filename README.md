@@ -43,6 +43,7 @@
 <img height="350em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDutt&show_icons=true&theme=react/">
 
 ---
+<br />
 
 #### Check out my latest blogs on medium :
 
