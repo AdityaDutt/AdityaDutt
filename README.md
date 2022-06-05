@@ -18,10 +18,10 @@
 
 #### Languages and Tools:
 
-<img align="left" alt="Python" width="5%" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
+<img align="left" alt="Python" width="3%" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 <img align="left" alt="Keras" width="68px" src="https://keras.io/img/logo.png" />
 <img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
-<img align="left" alt="C++" width="5%" src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif" />
+<img align="left" alt="C++" width="3%" src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif" />
 <img align="left" alt="Scikit" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="NumPy" width="66px" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
 <img align="left" alt="Matplotlib" width="80px" src="https://matplotlib.org/_static/logo2.svg" />
