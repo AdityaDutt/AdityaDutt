@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Aditya][website]<sup>(He/Him)</sup> <img  style="vertical-align: bottom;" alt="codeSTACKr.com" width="10%" src="https://media3.giphy.com/media/3o7523KEOFginbjFQc/giphy.gif?cid=790b76119f8aff756809214f4ba598db3c538f0122ccf346&rid=giphy.gif&ct=g" />
+## Hi there 👋, I'm [Aditya][website]<sup>(He/Him)</sup> <img  style="vertical-align: bottom;" alt="codeSTACKr.com" width="12%" src="https://media3.giphy.com/media/3o7523KEOFginbjFQc/giphy.gif?cid=790b76119f8aff756809214f4ba598db3c538f0122ccf346&rid=giphy.gif&ct=g" />
 
 <!-- <img align="center" alt="codeSTACKr.com" width="5%" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
  -->
