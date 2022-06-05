@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Aditya][website]<sup>(He/Him)</sup> <img  style="vertical-align: bottom;" alt="codeSTACKr.com" width="10%" src="https://media3.giphy.com/media/3o7523KEOFginbjFQc/giphy.gif?cid=790b76119f8aff756809214f4ba598db3c538f0122ccf346&rid=giphy.gif&ct=g" />
+## Hi there 👋, I'm [Aditya][website]<sup>(He/Him)</sup> <img  style="vertical-align: bottom;" alt="codeSTACKr.com" width="15%" src="https://media3.giphy.com/media/3o7523KEOFginbjFQc/giphy.gif?cid=790b76119f8aff756809214f4ba598db3c538f0122ccf346&rid=giphy.gif&ct=g" />
 
 <!-- <img align="center" alt="codeSTACKr.com" width="5%" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
  -->
@@ -19,7 +19,7 @@
 #### Languages and Tools:
 
 <img align="left" alt="Python" width="4%" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
-<img align="left" alt="Keras" width="68px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="Keras" width="72px" src="https://keras.io/img/logo.png" />
 <img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="C++" width="5%" src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif" />
 <img align="left" alt="Scikit" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
