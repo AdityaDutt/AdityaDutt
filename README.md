@@ -44,11 +44,11 @@
 
 ---
 
-#### My Python Libraries
+#### My Python Libraries:
 
 <img align="left" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/88d8d78db4eb39760ce84a0e42435a6320aff19e/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416469747961447574742f4c6f6f702d616e642d45646765732d4465746563746f722f6d61737465722f496d616765732f496d616765322f45646765732e706e67" style="float: left;" width= "15%" alt="lib"> 
 
-[PyEdgeLoop](https://pypi.org/project/pyedgeloop/) is a fast and simple python package to detect loops, outer boundary and edges in binary images. 
+[PyEdgeLoop](https://pypi.org/project/pyedgeloop/) is a fast and simple python package to detect loops, outer boundary and edges in binary images.<br/> 
 Installation: ```pip install pyedgeloop```
 
 <br />
