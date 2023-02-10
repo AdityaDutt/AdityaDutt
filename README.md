@@ -54,12 +54,9 @@ Installation: ```pip install pyedgeloop```
 <br/>
 <br/>
 
-<img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/ad9a76eaddf74fecc76b498f649d434b52cd4271/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416469747961447574742f4c6f6f702d616e642d45646765732d4465746563746f722f6d61737465722f496d616765732f496d616765332f6c6561662e6a706567" style="float: center;" width= "35%" alt="lib"> &nbsp;&nbsp;&nbsp;<img align="center" src="https://free-images.com/or/1d68/arrow_curved_red_right.jpg" width= "10%" alt="lib">  <img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/758f3631502c7bca44b2eee89882aae3196cc863/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416469747961447574742f4c6f6f702d616e642d45646765732d4465746563746f722f6d61737465722f496d616765732f496d616765332f45646765735f6c6561662e706e67" style="float: center;" width= "35%" alt="lib"> 
+<img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/ad9a76eaddf74fecc76b498f649d434b52cd4271/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416469747961447574742f4c6f6f702d616e642d45646765732d4465746563746f722f6d61737465722f496d616765732f496d616765332f6c6561662e6a706567" style="float: center;" width= "40%" alt="lib"> &nbsp;&nbsp;&nbsp;<img align="center" src="https://free-images.com/or/1d68/arrow_curved_red_right.jpg" width= "10%" alt="lib">  <img align="center" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/758f3631502c7bca44b2eee89882aae3196cc863/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416469747961447574742f4c6f6f702d616e642d45646765732d4465746563746f722f6d61737465722f496d616765732f496d616765332f45646765735f6c6561662e706e67" style="float: center;" width= "40%" alt="lib"> 
 
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
