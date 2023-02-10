@@ -50,9 +50,8 @@
 [PyEdgeLoop](https://pypi.org/project/pyedgeloop/) 
 is a fast and simple python package to detect loops, outer boundary and edges in binary images.
 
-<br />
 
----
+<hr>
 
 
 #### Check out my latest blogs on medium :
