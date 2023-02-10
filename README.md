@@ -58,9 +58,6 @@ Installation: ```pip install pyedgeloop```
 
 
 <br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
