@@ -44,6 +44,14 @@
 
 ---
 
+### My Python Libraries
+
+<a target="_blank" href="https://pypi.org/project/pyedgeloop/"><img src="https://pypi.org/project/pyedgeloop/" alt="Recent Article 0"> 
+<br />
+
+---
+
+
 #### Check out my latest blogs on medium :
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
