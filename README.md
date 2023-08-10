@@ -70,10 +70,6 @@ Installation: ```pip install pyedgeloop```
 <br />
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/3" alt="Recent Article 3"> 
-
-<br />
-
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4" alt="Recent Article 4"> 
 
