@@ -57,22 +57,18 @@ Installation: ```pip install pyedgeloop```
 -->
 
 
-#### Check out my latest blogs on medium :
+#### Check out my blogs on Medium:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/0" alt="Recent Article 0"> 
 <br />
 
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/2" alt="Recent Article 2"> 
-
 <br />
-
 
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adityadutt/4" alt="Recent Article 4"> 
-
 <br />
-
 ---
 
 <!-- <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdityaDutt&show_icons=true&hide_border=true" />
