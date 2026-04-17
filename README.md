@@ -3,10 +3,10 @@
 <!-- <img align="center" alt="codeSTACKr.com" width="5%" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
  -->
 
-#### I'm a Machine learning PhD Researcher at University of Florida. I love participating in kaggle competitions and working on interesting problems.
-- 🔭 I'm working as a Graduate Research Assistant in [```UF ESSIE Department```](https://www.essie.ufl.edu/ ).
-- 🔭  I’m currently researching on emotion detection using speech and text !
-- 🌱  I like to write ✍ blogs based on Machine Learning on Medium. Check out my medium profile [Here](https://adityadutt.medium.com/). 
+#### I'm a Postdoctoral Associate in the ECE department at the University of Florida. 
+- 🔭 I work on multimodal AI, representation learning, and domain translation, with applications in remote sensing, biomedical imaging, and environmental monitoring.
+- 🔭  I enjoy working on challenging real-world problems that combine theory with practical impact.
+- 🌱  I occasionally write about machine learning and research insights on Medium. Check out my medium profile [Here](https://adityadutt.medium.com/). 
 
 #### Connect with me:
 
