@@ -3,10 +3,10 @@
 <!-- <img align="center" alt="codeSTACKr.com" width="5%" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
  -->
 
-#### I'm a Postdoctoral Associate in the ECE department at the University of Florida. 
-- 🔭 I work on multimodal AI, representation learning, and domain translation, with applications in remote sensing, biomedical imaging, and environmental monitoring.
-- 🔭  I enjoy working on challenging real-world problems that combine theory with practical impact.
-- 🌱  I occasionally write about machine learning and research insights on Medium. Check out my medium profile [Here](https://adityadutt.medium.com/). 
+#### I'm a Postdoctoral Associate in the Electrical and Computer Engineering department at the University of Florida. 
+- 🤖 I work on multimodal AI, representation learning, and domain translation, with applications in remote sensing and environmental monitoring.
+- 🧠  I enjoy working on challenging real-world problems that combine theory with practical impact.
+- ✍️  I occasionally write about machine learning and research insights on Medium. Check out my medium profile [Here](https://adityadutt.medium.com/). 
 
 #### Connect with me:
 
