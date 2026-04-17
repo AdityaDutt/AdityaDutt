@@ -8,7 +8,7 @@
 - I enjoy working on challenging real-world problems that combine theory with practical impact.
 - I occasionally write about machine learning and research insights on Medium. Check out my medium profile [Here](https://adityadutt.medium.com/). 
 
-#### 🤖🤝🧑‍💻 <i>Building AI to assist humans, not replace them.</i>
+🤖🤝🧑‍💻 <i>Building AI to assist humans, not replace them.</i>
 
 #### Connect with me:
 
