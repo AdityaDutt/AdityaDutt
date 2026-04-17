@@ -32,7 +32,6 @@
 <img align="center" alt="GitHub" width="44px" src="https://res.cloudinary.com/devpost/image/fetch/s--KP5oRp25--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue" />
 <br />
 
-
 [website]: https://adityadutt.github.io/
 [linkedin]: https://www.linkedin.com/in/adityadutt12
 [medium]: https://adityadutt.medium.com/
