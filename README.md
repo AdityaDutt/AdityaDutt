@@ -6,7 +6,8 @@
 #### I'm a Postdoctoral Associate in the Electrical and Computer Engineering department at the University of Florida. 
 - I work on multimodal AI, representation learning, and domain translation, with applications in remote sensing and environmental monitoring.
 - I enjoy working on challenging real-world problems that combine theory with practical impact.
-- I occasionally write about machine learning and research insights on [Medium](https://adityadutt.medium.com/). 
+- I occasionally write about machine learning and research insights on [Medium](https://adityadutt.medium.com/).
+- Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=0uWY-3IAAAAJ&hl=en).
 
 <i>Building AI to assist humans, not replace them!</i> 🤖🤝🧑‍💻 
 
